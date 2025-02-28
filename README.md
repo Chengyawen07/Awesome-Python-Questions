@@ -4,16 +4,24 @@ Welcome to **Awesome-Python-Questions**, a repository dedicated to documenting a
 
 ## 📌 Table of Contents
 
-- [1. Python Basics](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#1-python-basics)
-- [2. Advanced Python](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#2-advanced-python)
-- [3. Object-Oriented Programming (OOP)](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#3-object-oriented-programming-oop)
-- [4. File Handling](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#4-file-handling)
-- [5. Error Handling & Exceptions](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#5-error-handling--exceptions)
-- [6. Concurrency & Parallelism](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#6-concurrency--parallelism)
-- [7. Python Memory Management](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#7-python-memory-management)
-- [8. Standard Library & Useful Modules](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#8-standard-library--useful-modules)
-- [9. Code Optimization & Performance](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#9-code-optimization--performance)
-- [10. Unit Testing & Debugging](https://chatgpt.com/c/67c1a4f9-3428-800b-bb3e-1de7d415449f#10-unit-testing--debugging)
+- Python Basics
+2. Advanced Python
+
+3. Object-Oriented Programming (OOP)
+
+4. File Handling
+
+5. Error Handling & Exceptions
+
+6. Concurrency & Parallelism
+
+7. Python Memory Management
+
+8. Standard Library & Useful Modules
+
+9. Code Optimization & Performance
+
+10. Unit Testing & Debugging
 
 ------
 
