@@ -198,3 +198,22 @@ grep "python" file.txt  # 在 file.txt 里搜索 "python"
 
 ------
 
+### **20. Python 2 vs Python 3（列举 5 个区别）**
+
+| **区别点**     | **Python 2**           | **Python 3**             |
+| -------------- | ---------------------- | ------------------------ |
+| **打印**       | `print "hello"`        | `print("hello")`         |
+| **range()**    | 返回列表 `range(1,10)` | 返回迭代器 `range(1,10)` |
+| **编码**       | 默认 `ASCII`           | 默认 `UTF-8`             |
+| **字符串类型** | `str` 表示字节序列     | `str` 表示字符串序列     |
+| **输入函数**   | `raw_input()`          | `input()`                |
+
+**代码示例：**
+
+```python
+# Python 3
+print("Hello")  # 需要括号
+print(list(range(3)))  # [0, 1, 2]
+print(type("hello"))  # str
+```
+
